@@ -1,2 +1,2 @@
 # Curriculum_Vitae
-This repository contains my latest CV file in both .docx and .pdf formats.
+This repository contains my latest Resume as a PDF document.
